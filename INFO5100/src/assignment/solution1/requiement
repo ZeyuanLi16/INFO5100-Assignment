@@ -1,0 +1,19 @@
+Identify Objects (their behaviors and state) and write a pseudo code (flow) of these scenarios can be executed by a Computer
+
+Scenario : ShoppingOnline : Please look in Solutions1/Assignment1 - Shopping Online for how to do rest of the use cases
+Description : A consumer is interested in buying a book on a online Website like Amazon
+
+Scenario : Pay tuition
+Description : A student wants to pay his tuition through myNEU account.
+ 
+Scenario : Order for delivery
+Description : A consumer is going to order a delivery through phone calls.
+
+Scenario : Booking an Airbnb
+Description : A tourist wants to book a house on Airbnb app.
+
+Scenario : Travelling to LA
+Description : A tourist is trying to find the cheapest flight to LA.
+
+Scenario : Drive home
+Description : A student is driving home from school.
