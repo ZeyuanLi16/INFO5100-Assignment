@@ -166,7 +166,7 @@ package assignment.solution3;
 			for(int i=0;i<message.length();i=i+3){
 				if(message.charAt(i)!='S')
 					error++;
-				if(message.charAt(i+1)!='S')
+				if(message.charAt(i+1)!='O')
 					error++;
 				if(message.charAt(i+2)!='S')
 					error++;
