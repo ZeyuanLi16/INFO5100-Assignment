@@ -1,4 +1,4 @@
-package assignment.solution3;
+package assignment.solution4;
 	/**
 	 * Finish assignments, try bonus. Deadline: Before the next class.
 	 * 
